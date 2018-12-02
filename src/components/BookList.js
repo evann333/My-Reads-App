@@ -12,7 +12,7 @@ function BookList (props) {
   const shelves = [
     { id: 'currentlyReading', name: 'Currently Reading' },
     { id: 'wantToRead', name: 'Wish List' },
-    { id: 'read', name: 'Already Read It' }
+    { id: 'read', name: 'Read' }
   ];
 
   /**
